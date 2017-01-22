@@ -1,0 +1,10 @@
+Project4_1
+Perturb Comparison
+                Type   <       b(1)       b(2)   >   <       x(1)       x(2)   >
+            Original   <        294      70002   >   <   -26.6609    373.983   >
+        Perturbation   <    294.001      70002   >   <    -26.661    373.984   >
+ 
+          Error type           Error of b           Error of x
+            Relative          1.43564e-07          3.65729e-06
+            Absolute            0.0100499           0.00137124
+diary off

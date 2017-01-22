@@ -1,0 +1,58 @@
+Project4_2
+Gaussian Elimination Comparison
+The condition number of H10 is 1.60244e+13
+ 
+Naive Guassian Elimination with B = [1 1 1 1 1 1 1 1 1 1]
+
+xb =
+
+   1.0e+06 *
+
+   -0.0000
+    0.0010
+   -0.0238
+    0.2402
+   -1.2610
+    3.7832
+   -6.7258
+    7.0004
+   -3.9377
+    0.9237
+
+Scaled Partial Pivoting with B = [1 1 1 1 1 1 1 1 1 1]
+
+xc =
+
+   1.0e+06 *
+
+   -0.0000
+    0.0010
+   -0.0238
+    0.2402
+   -1.2610
+    3.7832
+   -6.7258
+    7.0004
+   -3.9377
+    0.9237
+
+Scaled Partial Pivoting with B = [1.01 1 1 1 1 1 1 1 1 1]
+
+xd =
+
+   1.0e+06 *
+
+   -0.0000
+    0.0009
+   -0.0230
+    0.2342
+   -1.2358
+    3.7201
+   -6.6297
+    6.9129
+   -3.8940
+    0.9144
+
+ 
+The difference between xc and xd is      153417
+diary off
